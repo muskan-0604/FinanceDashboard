@@ -1,7 +1,5 @@
 Finance Dashboard Backend
 
-Overview
-
 This project is a backend system for a finance dashboard, built using Java, Spring Boot, and MySQL. It supports financial record management, user and role management, dashboard summaries, access control, and exception handling.
 
 The system allows different users to interact with financial data according to their roles:
